@@ -1,0 +1,8 @@
+customtkinter
+tkintermapview
+pandas
+langchain
+langchain_openai
+langchain_community
+
+

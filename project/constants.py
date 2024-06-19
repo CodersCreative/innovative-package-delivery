@@ -1,0 +1,17 @@
+PADDING_LARGE = 5
+PADDING_SMALL = 2
+WINDOW_SIZE = {"x" : 1280, "y" : 720}
+PROGRESS_STAGES = ["Waiting for Delivery", "In Transit", "Collected", "Delivered"]
+
+SIDEBAR_SIZE = 300
+
+SMALL_FONT = ("Arial", 12)
+MEDIUM_FONT = ("Arial Regular", 16)
+LARGE_FONT = ("Arial Bold", 28)
+OMEGA_FONT = ("Arial Bold", 45)
+
+AI_CHAT_COLOUR = "#F28BA8"
+ACCENT_COLOUR = "#89B4FA"
+ALTERNATE_DARK_COLOUR = "#1C1C2B"
+DEFAULT_COLOUR = "#1E1E2E"
+TEXT_COLOUR = "#CDD5F4"
